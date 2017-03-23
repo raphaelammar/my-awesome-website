@@ -1,0 +1,32 @@
+#drake img {
+    border-radius: 50%;
+}
+#drake h1 {
+    color: red; 
+}
+#drake-2 {
+    background-color: red;
+    transition: all 0.4s ease-in-out;
+}
+#drake-2:hover {
+    background-color: black;
+}
+#drake-2 {
+    color: white;
+}
+.box #drake img {
+    background-color: yellow;
+    width: 300px;
+    height: 300px;
+    margin: 20px;
+}
+<nav>
+          <a href="#Drake"> Drake</a>
+          <a href="#rihanna"> Rihanna</a>
+          <a href="#kayne-west"> Kanye West</a>
+          <a href="#adrian"> Adrian Prieto</a>
+          <a href="#ladygaga"> Lady Gaga </a>
+          <a href=""> Jennifer Lopez </a>
+          <a href= "#queen"> Beyonce </a>
+          <a href="#onerepublic"> One Republic</a>
+         </nav>
